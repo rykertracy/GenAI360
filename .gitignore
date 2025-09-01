@@ -1,0 +1,7 @@
+# Gitignore
+
+# Virtual Environment
+.venv/
+
+# Sensitive Environmental Variables
+.env
